@@ -1,5 +1,5 @@
 
-# ysoserial 
+# ysoserial apache-commons jar包的漏洞,可以导致远程攻击,该项目是远程攻击测试项目.
 
 A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 
